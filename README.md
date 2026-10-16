@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Advice-generator-app/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Advice-generator-app/)
 
 ## My process
 
